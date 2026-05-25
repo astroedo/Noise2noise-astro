@@ -1,0 +1,21 @@
+# Core
+torch>=2.1
+numpy>=1.24
+matplotlib>=3.7
+Pillow>=10.0
+h5py>=3.9
+
+# Dataset
+astroNN>=1.1.0
+
+# Astronomy I/O (FITS support)
+astropy>=5.3
+
+# Classical baseline
+bm3d>=4.0.1
+
+# Training visualization (GIFs)
+imageio>=2.31
+
+# Notebook
+jupyter>=1.0
