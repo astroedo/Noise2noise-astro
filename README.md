@@ -27,7 +27,7 @@ Validation on synthetic noise (Galaxy10):
 Applied to a 4168×3840 amateur astrophoto via tiled inference (256 px tiles, 32 px overlap).
 
 ![M101 comparison](docs/M101_Comparison.png)
-![M101 details](docs/M101_Details.png)
+![M101 details](docs/M101_details.png)
 
 ---
 
